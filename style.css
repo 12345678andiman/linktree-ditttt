@@ -54,7 +54,8 @@ body {
     border-radius: 50%;
 }
 
-.loader::before, .loader::after{
+.loader::before,
+.loader::after {
     content: '';
     border: 1em solid #5273b1;
     border-radius: 50%;

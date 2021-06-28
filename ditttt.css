@@ -67,3 +67,14 @@ body {
     animation: loader 2s linear infinite;
     opacity: 0;
 }
+
+.fab, .fa, .fas {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #dbf5ff;
+}
+
+.fab:hover, .fa:hover {
+    color: whitesmoke;
+    transition: color 1s;
+}
